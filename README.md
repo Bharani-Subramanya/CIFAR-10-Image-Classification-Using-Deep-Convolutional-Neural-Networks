@@ -71,5 +71,5 @@ Run the model in Google Colab using the link below:👉 [Colab Notebook](https:/
 
 ## 📄 Research Paper
 The full paper detailing this work is available here:  
-👉 [**Download Paper (PDF)**](CIFAR10_DeepCNN_Paper.pdf)
+👉 [**Download Paper (PDF)**](558_paper.pdf)
 
